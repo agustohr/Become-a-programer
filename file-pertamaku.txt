@@ -1,5 +1,7 @@
 Name  : Agusto Hawlai Rajagukguk
 Age   : 19 tahun
 Students of informatics engineering ITERA
-From zero to hero
 I will be a great programmer
+Quotes: 
+- Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. (Mosher’s Law of Software Engineering)
+- Stay Hungry, Stay Foolish. (Steve Jobs)
